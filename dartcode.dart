@@ -1,9 +1,9 @@
 void main() {
-  // List name = ["Salem", 120221875, true, 1.85];
-  // name.add("Omar");
+  // List name = ["ِAhmedAlmasri", 120222645, true, 1.85];
+  // name.add("jadoo");
   //print(name);
   //
-  //List<int> nameNumber = [10, 120221875, 102, 185];
+  //List<int> nameNumber = [10, 120224645, 101, 225];
   //nameNumber.add(15);
   //print(nameNumber);
 
